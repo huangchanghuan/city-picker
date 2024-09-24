@@ -5,7 +5,7 @@
 - [Demo](https://huangchanghuan.github.io/city-picker)
 - [博客园更简单使用说明](http://www.cnblogs.com/huangchanghuan/p/6681510.html)
 ##Release History
-
+test
 ###v1.1.0
 Add function to get the code：
 
